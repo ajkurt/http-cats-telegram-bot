@@ -2,7 +2,6 @@ from telegram.ext import CommandHandler, Filters, MessageHandler, Updater
 
 #from conf.settings import BASE_API_URL, TELEGRAM_TOKEN
 BASE_API_URL = "https://http.cat/"
-TELEGRAM_TOKEN = "1545164435:AAFrEguIH-8HSzQZNEQVdF0WJnPnhBvKmzU"
 
 def start(update, context):
     response_message = "=^._.^="
