@@ -1,1 +1,1 @@
-worker: python scr/core.py
+worker: python src/core.py
